@@ -25,12 +25,28 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
+      "id": 4,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
       "name": "Moda Italiana",
-      "price": "24.90",
-      "description": "Massa Italiana à moda da casa",
+      "price": "29.90",
+      "description": "Massa Italiana à moda da casa"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Teste",
+      "price": "15.00",
+      "description": "Testando",
       "available": true,
-      "id": 4
+      "id": 5
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Teste 2",
+      "price": "1.25",
+      "description": "Testando 2",
+      "available": true,
+      "id": 6
     }
   ]
 }
